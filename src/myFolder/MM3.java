@@ -1,4 +1,4 @@
 package myFolder;
 
-public class MM3 {
+public class MM3{
 }
